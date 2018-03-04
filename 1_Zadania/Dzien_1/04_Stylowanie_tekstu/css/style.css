@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-BoldItalic.eot');
+    src: local('Lato Bold Italic'), local('Lato-BoldItalic'),
+    url('../fonts/Lato/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato/Lato-BoldItalic.woff2') format('woff2'),
+    url('../fonts/Lato/Lato-BoldItalic.woff') format('woff'),
+    url('../fonts/Lato/Lato-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+p {
+    font-family: 'Krona One', sans-serif;
+}

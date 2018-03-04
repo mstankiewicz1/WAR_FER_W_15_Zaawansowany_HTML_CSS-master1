@@ -1,0 +1,18 @@
+/*Zadania rozwiązywane z wykładowcą
+Nie mieszczące się elementy*/
+
+.container {
+    border: 2px solid blue;
+    width: 400px;
+}
+
+.one {
+    width: 350px;
+    border: 1px solid red;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+/*Zadania do samodzielnego wykonania
+Zadanie 1. Zrozumienie Box Model */
+/*box-sizing -

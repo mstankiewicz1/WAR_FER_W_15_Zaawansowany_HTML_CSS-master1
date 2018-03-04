@@ -1,0 +1,59 @@
+/*Zadania rozwiązywane z wykładowcą
+
+Proste selektory
+
+p {
+    background-color: red;
+}
+
+p#inny {
+    background-color: blue;
+}
+
+.blog {
+    background-color: beige;
+}
+
+div.blog p {
+
+}
+
+p#rodzic {
+    background-color: orange;
+}
+
+div#rodzic > p {
+    background-color: green;
+}
+
+div#other + p {
+    backgroud-color: brown;
+}
+
+p#inny ~ p {
+    background-color: violet;
+}
+*/
+/*Zadania do samodzielnego wykonania
+Zadanie 1. Łączenie selektorów
+
+h1, h2, h3, h4, h5 {
+    background-color: green;
+}
+
+.black,.white {
+    background-color: grey;
+}
+
+div.important {
+    background-color: green;
+}
+
+div.white, divwhite * {
+    background-color: blue;
+}*/
+
+/*Zadanie 2*/
+
+
+

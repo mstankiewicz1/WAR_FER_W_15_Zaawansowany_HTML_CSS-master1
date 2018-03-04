@@ -1,0 +1,39 @@
+/*Zadania rozwiazywane z wykładowca
+Stwórz jeden paragraf, ustaw dla niego poniższe style i przetestuj ich działanie.*/
+p {
+    font-size: 12px;!important;
+}
+
+p {
+    font-size: 40px;
+}
+
+/*Zadania do samodzielnego wykonania
+Zadanie 1*/
+#firstParagraph {
+    font-size: 20px;
+}
+
+#secondParagraph {
+    font-size: 10px;
+}
+/*Zadanie 2*/
+span {
+    background-color: yellow;
+}
+
+/*Zadanie 3*/
+#przykladowyID {
+    background-color: red;
+}
+
+div {
+    background-color: blue ;
+}
+
+.przykladowaKlasa {
+    background-color: green;
+}
+
+/*Zadanie 4*/
+/*Zrobione wyżej*/
