@@ -1,0 +1,29 @@
+/* Zadania rozwiazywane z wykładowcą */
+
+input:focus, textarea:focus {
+    outline: 0;
+}
+
+input, textarea {
+    margin: 5px;
+    display: block;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+}
+
+fieldset {
+    width: 300px;
+    height: 300px;
+}
+
+button[type="submit"] {
+    width: 70px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border-radius: 30%;
+}
+

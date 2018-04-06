@@ -1,0 +1,102 @@
+/* Zadania rozwiązywane z wykładowcą
+
+div {
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    line-height: 300px;
+}
+
+div:hover {
+    background-color: blue ;
+    border-radius: 10%;
+}
+
+div:active {
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,255, .6);
+} */
+
+/*Zadanie 1
+
+a {
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 20%;
+    margin-top: 20px;
+    margin-right: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+a:hover {
+    background-color: green;
+}
+
+a:active {
+    background-color: grey;
+} */
+
+/* Zadanie 2
+
+#navigation li {
+    width: 75px;
+    background-color: red;
+}
+
+#navigation li:first-child {
+    border-bottom-left-radius: 30%;
+    border-top-left-radius: 30%;
+}
+
+#navigation li:last-child {
+    border-bottom-right-radius: 30%;
+    border-top-right-radius: 30%;
+}
+
+#zebra p:nth-child(2n+1) {
+    background-color: grey;
+}
+
+#other div:first-child {
+    background-color: green;
+}
+
+#other div:last-child {
+    background-color: blue;
+}
+
+#from_end div:nth-last-child(2n+3) {
+    background-color: orange;
+} */
+
+/* Zadanie 4*/
+
+table {
+    width: 250px;
+    height: 400px;
+}
+
+thead, tr, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
+
+tr:nth-child(2n+1) {
+    background-color: lightblue;
+
+}
+
+tr:nth-child(2n+2) {
+    background-color: blue;
+}
+
+td:hover {
+    color: red;
+}

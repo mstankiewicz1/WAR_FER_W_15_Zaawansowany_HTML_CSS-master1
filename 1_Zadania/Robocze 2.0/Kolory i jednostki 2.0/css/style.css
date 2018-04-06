@@ -1,0 +1,43 @@
+/* Zadania rozwiązywane z wykładowcą
+
+div {
+    width: 500px;
+    height: 100px;
+    background-color: rgba(102, 102, 0, .6);
+}
+
+p{
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+} */
+
+/* Zadania do samodzielnego wykonania*/
+
+/*Zadanie 1
+
+html {
+    font-size: 40px;
+}
+
+div {
+    font-size: 20px;
+}
+
+p {
+    font-size: 2rem;
+} */
+
+/*Zadanie 2*/
+
+div {
+    width: 300px;
+    height: 300px;
+    background-color: rgba(102, 102, 0, .6);
+}
+
+p{
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+}

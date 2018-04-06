@@ -1,0 +1,33 @@
+/*Zadanie 1*/
+p {
+    font-size: 12px;
+}
+
+#firstParagraph {
+    font-size: 40px;!important;
+}
+
+#secondParagraph {
+    font-size: 10px;
+}
+
+/*Zadania 2*/
+span {
+    background-color: yellow;
+}
+
+/*Zadanie3*/
+#przykladowyIdentyfikator{
+    background-color: red;
+}
+
+div{
+    background-color: blue;
+}
+
+.przykladowaKlasa {
+    background-color: green;
+}
+
+/*Zadanie 4*/
+

@@ -1,0 +1,14 @@
+/*Zadania rozwiązywane z wykładowcą
+Nie mieszczące się elementy*/
+
+.container {
+    width: 400px;
+    border: 2px solid blue;
+}
+
+.one {
+    width: 350px;
+    border: 1px solid red;
+    padding-left: 30px;
+    box-sizing: border-box;
+}

@@ -7,9 +7,9 @@ Obrazek jako tło
     background-image: url("../images/rocks.jpg");
     background-size: 100%;
     background-position: center ;
-}
-*/
-/*Zadania do samodzielnego wykonania
+}*/
+/*
+Zadania do samodzielnego wykonania
 Zadanie 1. Ustawianie tła w elemencie div
 
 #grunwald {
@@ -19,9 +19,10 @@ Zadanie 1. Ustawianie tła w elemencie div
     background-size: cover;
     background-position: center;
 }
-*/
-/*Zadanie 2. Ustawianie tła na elemencie body*/
+
+Zadanie 2. Ustawianie tła na elemencie body
 body {
     background-image: url("../images/mountains.jpg");
     background-size: 50%;
 }
+*/

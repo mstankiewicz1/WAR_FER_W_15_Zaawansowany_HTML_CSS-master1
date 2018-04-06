@@ -1,0 +1,36 @@
+html {
+    font-size: 40px;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    background: rgba(147,206,222,1);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(147,206,222,1) 0%, rgba(117,189,209,0.78) 41%, rgba(248,80,50,0.65) 65%, rgba(78,163,187,0.46) 99%, rgba(73,165,191,0.46) 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(147,206,222,1)), color-stop(41%, rgba(117,189,209,0.78)), color-stop(65%, rgba(248,80,50,0.65)), color-stop(99%, rgba(78,163,187,0.46)), color-stop(100%, rgba(73,165,191,0.46)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(147,206,222,1) 0%, rgba(117,189,209,0.78) 41%, rgba(248,80,50,0.65) 65%, rgba(78,163,187,0.46) 99%, rgba(73,165,191,0.46) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(147,206,222,1) 0%, rgba(117,189,209,0.78) 41%, rgba(248,80,50,0.65) 65%, rgba(78,163,187,0.46) 99%, rgba(73,165,191,0.46) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(147,206,222,1) 0%, rgba(117,189,209,0.78) 41%, rgba(248,80,50,0.65) 65%, rgba(78,163,187,0.46) 99%, rgba(73,165,191,0.46) 100%);
+    background: radial-gradient(ellipse at center, rgba(147,206,222,1) 0%, rgba(117,189,209,0.78) 41%, rgba(248,80,50,0.65) 65%, rgba(78,163,187,0.46) 99%, rgba(73,165,191,0.46) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf', GradientType=1 );
+
+}
+
+div div {
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+}
+
+/*Zadania do samodzielnego wykonania*/
+
+/*Zadanie 1 Jednostki*/
+div{
+    font-size: 2em;
+}
+
+div div{
+    font-size: 2rem;
+}
+
+/*Zadanie 2 Dziedziczenie*/

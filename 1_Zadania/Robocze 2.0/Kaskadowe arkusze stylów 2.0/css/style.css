@@ -1,0 +1,57 @@
+/* Zadania rozwiązywane z wykładowca
+
+p {
+    font-size: 12px;
+}
+
+p {
+    font-size: 24px;
+}*/
+
+/* Zadania do samodzielnego wykonania*/
+/*Zadanie 1
+#firstParagraph {
+    font-size: 20px;
+}
+
+#secondParagraph {
+    font-size: 10px;
+} */
+
+/*Zadanie 2
+#firstParagraph {
+    font-size: 20px;
+    background-color: yellow;
+}
+
+#secondParagraph {
+    font-size: 10px;
+    background-color: yellow;
+}
+
+span {
+    background-color: yellow;
+}
+
+#identyfikator {
+    background-color: red;
+}
+
+div {
+    background-color: blue;
+}
+
+.klasa {
+    background-color: green;
+} */
+/* Zadanie 4 */
+
+p {
+    font-size: 12px !important;
+}
+
+p {
+    font-size: 24px;
+}
+
+

@@ -1,0 +1,60 @@
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-Regular.eot');
+    src: local('../fonts/Lato/Lato Regular'), local('Lato-Regular'),
+    url('../fonts/Lato/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato/Lato-Regular.woff2') format('woff2'),
+    url('../fonts/Lato/Lato-Regular.woff') format('woff'),
+    url('../fonts/Lato/Lato-Regular.ttf') format('truetype'),
+    url('../fonts/Lato/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*Zadanie 1*/
+@font-face {
+    font-family: 'Yeon Sung';
+    src: url('../fonts/Yeon_Sung/YeonSung-Regular.eot');
+    src: local('../fonts/Yeon_Sung/Yeon Sung Regular'), local('YeonSung-Regular'),
+    url('../fonts/Yeon_Sung/YeonSung-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Yeon_Sung/YeonSung-Regular.woff2') format('woff2'),
+    url('../fonts/Yeon_Sung/YeonSung-Regular.woff') format('woff'),
+    url('../fonts/Yeon_Sung/YeonSung-Regular.ttf') format('truetype'),
+    url('../fonts/Yeon_Sung/YeonSung-Regular.svg#YeonSung-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Zadanie 2*/
+
+/*Zadanie 3*/
+
+
+@font-face {
+    font-family: 'rubikregular';
+    src: url('../fonts/rubik/rubik-regular.woff2') format('woff2'),
+    url('../fonts/rubik/rubik-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nobileregular';
+    src: url('../fonts/Nobile/nobile-bold.woff2') format('woff2'),
+    url('../fonts/Nobile/nobile-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/open-sans/opensans-regular.woff2') format('woff2'),
+    url('../fonts/open-sans/opensans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+   font-family: rubikregular;
+}

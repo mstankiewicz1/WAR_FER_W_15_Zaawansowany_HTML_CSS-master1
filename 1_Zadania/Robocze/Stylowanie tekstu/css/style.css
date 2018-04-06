@@ -1,0 +1,48 @@
+/*Zadania rozwiązywane z wykładowcą
+Dodawanie rodziny czcionek do projektu*/
+
+@font-face {
+    font-family: 'Limelight';
+    src: url('../fonts1/Limelight/Limelight-Regular.eot');
+    src: local('Limelight Regular'), local('Limelight-Regular'),
+    url('../fonts1/Limelight/Limelight-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts1/Limelight/Limelight-Regular.woff2') format('woff2'),
+    url('../fonts1/Limelight/Limelight-Regular.woff') format('woff'),
+    url('../fonts1/Limelight/Limelight-Regular.ttf') format('truetype'),
+    url('../fonts1/Limelight/Limelight-Regular.svg#Limelight-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/*Zadanie 1. Generowanie dodatkowych czcionek*/
+@font-face {
+    font-family: 'Lobster';
+    src: url('../fonts1/Lobster/Lobster-Regular.eot');
+    src: local('Lobster Regular'), local('Lobster-Regular'),
+    url('../fonts1/Lobster/Lobster-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts1/Lobster/Lobster-Regular.woff2') format('woff2'),
+    url('../fonts1/Lobster/Lobster-Regular.woff') format('woff'),
+    url('../fonts1/Lobster/Lobster-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Zadanie 3. Używanie Font Squirrel*/
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts1/rubik/Rubik-Bold.eot');
+    src: local('Rubik Bold'), local('Rubik-Bold'),
+    url('../fonts1/rubik/Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts1/rubik/Rubik-Bold.woff2') format('woff2'),
+    url('../fonts1/rubik/Rubik-Bold.woff') format('woff'),
+    url('../fonts1/rubik/Rubik-Bold.ttf') format('truetype'),
+    url('../fonts1/rubik/Rubik-Bold.svg#Rubik-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+p {
+    font-family: 'Pacifico', sans-serif ;
+}
+
+

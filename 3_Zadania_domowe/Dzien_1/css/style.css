@@ -1,0 +1,19 @@
+.large_list ul {
+    height: 500px;
+    width: 300px;
+    background-color: #FF00A5;
+    font-weight: 400;
+}
+
+.large_list ul li {
+    line-height: 50px;
+    font-weight: 300;
+    text-align: center;
+    background-color: #36FF74;
+}
+
+body {
+    color: white;
+}
+
+

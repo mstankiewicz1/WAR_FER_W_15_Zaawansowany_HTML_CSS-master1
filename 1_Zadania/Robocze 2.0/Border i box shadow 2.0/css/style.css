@@ -1,0 +1,64 @@
+/*Zadania rozwiązywane z wykładowcą
+
+.popup {
+    width: 400px;
+    height: 100px;
+    background-color: beige;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.3);
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+    box-sizing: border-box;
+} */
+
+/*Zadania do samodzielnego wykonania*/
+/*Zadanie 1*/
+/*.shape {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 90px;
+}*/
+/*
+.shape {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 90px;
+}
+.shape {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    text-align: center;
+    line-height: 90px;
+}/
+
+/* Zadanie 2
+
+.shadow {
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 5px red ;
+    text-align: center;
+    line-height: 90px;
+} */
+
+.shadow {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 90px;
+    box-shadow: 0 -5px 10px 0 blue blur(3px);
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+    box-shadow: 0 5px 10px 0 red;
+}
