@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+.accentFontColor {
+    color: #00bb9d;
+}
+
+.accentBgColor {
+    background-color: #00bb9d;
+}
+
+header, section, footer {
+    width: 100%;
+}
+
+.container {
+    width: 1065px;
+    margin: 0 auto;
+    background-color: red;
+    position: relative;
+}
+
+header {
+    height: 41px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#banner {
+    background-color: #cccdd4;
+    background: linear-gradient(to bottom right, #fff, #cccdd4);
+    height: 505px;
+    position: relative;
+}
+
+#gallery, #contact, footer {
+    background-color: white;
+}
+
+#offer {
+    background-color: #f0f0f0;
+    height: 723px;
+}
+
+#gallery {
+    height: 366px;
+}
+
+#contact {
+    background-color: #fff;
+    height: 515px;
+}
+
+footer {
+    height: 136px;
+}
+
+#banner h1 {
+    font-size: 45px;
+}
+
+#header .logo {
+    line-height: 41px;
+}
+
+#banner a.button {
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+    padding: 12px;
+    width: 261px;
+    height: 50px;
+    text-align: center;
+
+}
+
+#banner .text_wrapper {
+    text-align: center;
+}
+
+#banner .image {
+    width: 595px;
+    position: relative;
+    left: -42px;
+    top: 67px;
+}
+
+.banner_text {
+    width: 418px;
+    height: 80px;
+    position: absolute;
+    top: 135px;
+    right: 282px;
+}
+
+.image_wrapper {
+    width: 447px;
+    height: 409px;
+    background-image: url("../images/black_chair.png");
+    background-size: cover;
+    float: left;
+    position: absolute;
+    top: 76px;
+    left: 116px;
+}
+
+#banner_text p {
+    text-align: center;
+    width: 450px;
+    height: 145px;
+}
+
+.button {
+    position: absolute;
+}
