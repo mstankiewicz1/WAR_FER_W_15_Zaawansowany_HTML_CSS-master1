@@ -29,10 +29,13 @@ h1, nav {
     height: 40px;
 }
 
-h1 {
-    float: left;
-    font-size: 30px;
-    line-height: 35px;
+.logo {
+    height: 40px;
+    display: inline-block;
+}
+
+img {
+    height: 100%;
 }
 
 nav {
@@ -46,6 +49,75 @@ li {
     margin-left: 10px;
     line-height: 40px;
 }
+
+ul.menu li.offer {
+    position: relative;
+}
+
+.submenu {
+    position: absolute;
+    display: none;
+    width: 200px;
+    left: -50%;
+}
+
+ul.menu li {
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+ul.menu > li, ul.menu > li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul.menu li a {
+    display: inline-block;
+}
+
+ul.menu li.offer, ul.menu li a {
+    padding: 0 22px;
+}
+
+ul.menu li a {
+    width: 100%;
+}
+
+ul.menu > li {
+    background-color: dodgerblue;
+    margin: 0;
+    float: left;
+}
+
+ul.menu li:hover {
+    background-color: darkblue;
+}
+.menu li.offer:hover .submenu {
+    display: block;
+}
+
+ul.submenu li, ul.submenu li a {
+    color: black;
+}
+
+ul.submenu li {
+    display: block;
+    background-color: lightblue;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+ul.submenu li:last-child {
+    border-bottom: none;
+}
+
+ul.submenu li:hover {
+    background-color: cadetblue;
+}
+
+
+
+
 
 .main_header:before,
 .main_header:after {
@@ -68,6 +140,19 @@ li {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.img_krajobraz {
+    width: 100%;
+    height: 100%;
+}
+
+.img_krajobraz_jesien {
+    height: 50%;
+    background-position: top;
+    float: left;
+    padding: 10px;
+}
+
 
 article.text {
     margin-top: 10px;
@@ -118,6 +203,16 @@ h2 {
     height: 240px;
     float: left;
     margin-right: 1%;
+}
+
+.small_box:first-child {
+     background-image: url("../images2.1/samochód_biały.png");
+     background-size: cover;
+ }
+
+.small_box:nth-child(2) {
+    background-image: url("../images2.1/Samochod_niebieski.png");
+    background-size: cover;
 }
 
 .small_box:last-child {

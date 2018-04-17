@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+
+/*common*/
+
+.container {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+
+
+
+
+/*header*/
+header {
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+
+.inscription_SitOnChair {
+    float: left;
+}
+
+p {
+    color: white;
+    line-height: 50px;
+}
+
+span {
+    color: green;
+}
+
+nav{
+    float: right;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 10px;
+    line-height: 50px;
+}
+
+ul.menu_header li.offer {
+    position: relative;
+}
+
+.submenu {
+    position: absolute;
+    display: none;
+    width: 200px;
+    left: -50%;
+
+}
+
+ul.menu_header li {
+    font-size: 16px;
+}
+
+ul.menu_header > li, ul.menu_header li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul.menu_header li a {
+    display: inline-block;
+}
+
+ul.menu_header li.offer, ul.menu_header li a {
+    padding: 0 22px;
+}
+
+ul.menu_header li a {
+    width: 100%;
+}
+
+ul.menu_header > li {
+    margin: 0;
+    float: left;
+}
+
+.menu_header li.offer:hover .submenu {
+    display: block;
+}
+
+ul.submenu li, ul.submenu li a {
+    color: white;
+    font-size: 19px;
+    padding-top: -10px;
+    padding-bottom: -10px;
+}
+
+ul.submenu li {
+    display: block;
+    background-color: black;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*section banner*/
+
+
+
+
+
+
+/*section gallery*/
+
+
+
+
+
+
+/*section price_list*/
+
+
+
+
+
+
+/*section contact*/
+
+
+
+
+/*footer*/
+
+
+
+
+
+

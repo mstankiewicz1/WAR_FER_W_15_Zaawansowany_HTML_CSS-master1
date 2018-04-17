@@ -7,6 +7,8 @@ body > header, .gallery {
 .container {
     width: 1000px;
     margin: 0 auto;
+    border: 1px solid green;
+
 }
 
 .gallery {
@@ -94,7 +96,7 @@ li {
     background-color: #000;
 }
 
-article.text {
+article.text p {
     float: right;
     width: 50%;
     padding: 24px;
