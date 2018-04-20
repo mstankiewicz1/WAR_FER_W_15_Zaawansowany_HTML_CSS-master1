@@ -18,41 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="indexWarsztaty.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexWarsztaty.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Warsztaty/indexWarsztaty.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="220">
+              <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Warsztaty/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styleWarsztaty.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styleWarsztaty.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4_Warsztaty/css/styleWarsztaty.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-159">
-              <caret line="604" column="22" lean-forward="true" selection-start-line="604" selection-start-column="22" selection-end-line="604" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Warsztaty/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-779">
-              <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="460">
+              <caret line="152" column="13" lean-forward="false" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -216,6 +196,20 @@
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
               <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_3" type="462c0819:PsiDirectoryNode" />
+              <item name="11_Tworzenie_ukladu_strony" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_3" type="462c0819:PsiDirectoryNode" />
+              <item name="12_Podsumowanie_wazne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
               <item name="Robocze 2.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,15 +217,29 @@
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
               <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
               <item name="Robocze 2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="Pozycjonowanie elementów 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Formularze 2.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
               <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
               <item name="Robocze 2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="Pozycjonowanie elementów 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Formularze 2.0" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Robocze 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Tworzenie układu strony 2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Robocze 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Zaawansowane selektory 2.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WAR_FER_W_15_Zaawansowany_HTML_CSS-master" type="b2602c69:ProjectViewProjectNode" />
@@ -350,11 +358,12 @@
       <workItem from="1524088999395" duration="413000" />
       <workItem from="1524090654470" duration="307000" />
       <workItem from="1524158793906" duration="10665000" />
+      <workItem from="1524213672720" duration="27287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="369876000" />
+    <option name="totallyTimeSpent" value="397163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -409,28 +418,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/images/layout.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Zadania_domowe/Dzien_3/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_Zadania/Robocze 2.0/Tworzenie układu strony 2.0/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -492,20 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Zadania/Robocze 2.0/Tworzenie układu strony 2.0/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/12_Podsumowanie_wazne/images/page.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -543,13 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="74" column="55" lean-forward="true" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/12_Podsumowanie_wazne/index2.0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-473">
-          <caret line="72" column="44" lean-forward="false" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -597,31 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/form_ok.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/pinterest.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/red_chair.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/twitter.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/vimeo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -667,22 +608,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/flickr.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/black_chair.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/box1_img.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/box2_img.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -731,14 +662,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/warsztat1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Warsztaty/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="381">
           <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
         </state>
@@ -746,24 +672,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Warsztaty/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
+        <state relative-caret-position="140">
           <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Warsztaty/css/styleWarsztaty.css">
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/red_chair.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/twitter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/vimeo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/form_ok.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/box2_img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/flickr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/warsztat1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="604" column="22" lean-forward="true" selection-start-line="604" selection-start-column="22" selection-end-line="604" selection-end-column="22" />
+        <state relative-caret-position="-220">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/images/pinterest.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Robocze 2.0/Zaawansowane selektory 2.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Robocze 2.0/Tworzenie układu strony 2.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Robocze 2.0/Formularze 2.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Zadania/Dzien_3/12_Podsumowanie_wazne/index2.0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1793">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Warsztaty/indexWarsztaty.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="220">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Warsztaty/css/styleWarsztaty.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="152" column="13" lean-forward="false" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
           <folding />
         </state>
       </provider>
