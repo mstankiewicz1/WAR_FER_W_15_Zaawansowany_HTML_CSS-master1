@@ -30,8 +30,8 @@ header {
 .inscription_SitOnChair {
     float: left;
     position: absolute;
-    top: 10px;
-    left: 143px;
+    top: 11px;
+    left: 155px;
 }
 
 p.inscription_SitOnChair {
@@ -46,6 +46,10 @@ p.inscription_SitOnChair {
 
 nav{
     float: right;
+    position: absolute;
+    top: 6px;
+    right: 112px;
+    letter-spacing: -0.5px;
 }
 
 li {
@@ -114,26 +118,26 @@ ul.submenu li {
 /*section banner*/
 #banner {
     background: linear-gradient(to bottom right, #fff, #cccdd4);
-    height: 505px;
+    height: 504px;
     position: relative;
 }
 
 .image_container p.banner_elements_left {
     font-size: 80px;
     font-weight: 700;
-    color: green;
+    color: #19B99D;
     position: absolute;
-    top: 210px;
-    left: 140px;
+    top: 214px;
+    left: 76px;
 }
 
 .text_banner p.banner_elements_right {
     font-size: 80px;
     font-weight: 700;
-    color: green;
+    color: #19B99D;
     position: absolute;
-    top: 220px;
-    right: -200px;
+    top: 235px;
+    right: -125px;
 }
 
 .image_container {
@@ -146,11 +150,11 @@ ul.submenu li {
     background-image: url("../images/black_chair.png");
     background-position: center;
     background-size: cover;
-    width: 447px;
-    height: 409px;
+    width: 450px;
+    height: 423px;
     position: absolute;
-    top: 62px;
-    left: 101px;
+    top: 70px;
+    left: 112px;
 }
 
 .text_banner {
@@ -162,32 +166,40 @@ ul.submenu li {
 
 .text_banner h1 {
     text-align: center;
+    letter-spacing: -2.5px;
     font-size: 45px;
     font-weight: 500;
     position: absolute;
-    top: 125px;
-    left: 50px;
+    top: 132px;
+    left: 16px;
+}
+
+.accentFontColorBanner {
+    letter-spacing: -3.5px;
+    color: #2FBDA3;
 }
 
 .text_banner p {
     color: black;
-    width: 500px;
+    width: 390px;
     text-align: center;
     position: absolute;
-    top: 200px;
+    top: 195px;
     padding-top: 30px;
     line-height: 20px;
-    margin-top: -25px;
+    margin-top: -15px;
 }
 
 .text_banner a.banner_button {
     position: absolute;
-    top: 155px;
-    left: 130px;
+    top: 147px;
+    left: 66px;
+    font-size: 24px;
     text-decoration: none;
+    letter-spacing: 0.5px;
     display: inline-block;
     text-align: center;
-    line-height: 25px;
+    line-height: 29px;
     background-color: #24BA9F;
     border-radius: 5px;
     color: white;
@@ -205,94 +217,101 @@ ul.submenu li {
 
 /*section gallery*/
 #gallery {
-    height: 350px;
+    height: 341px;
     margin-bottom: 10px;
     position: relative;
 }
 
 .box {
-    width: 1250px;
+    width: 1117px;
     height: 300px;
     position: absolute;
-    margin-top: 30px;
-    margin-left: 25px;
+    top: 28px;
+    left: 152px;
 }
 
 .small_box1 {
     width: 29.33%;
-    height: 250px;
+    height: 224px;
     margin-right: 3%;
     float: left;
     background-image: url("../images/box1_img.jpg");
     background-size: cover;
-    border: 1px solid grey;
+    border: 1px solid #DADADA;
     position: relative;
 }
 
 .small_banner1 {
     width: 100%;
-    height: 65px;
+    height: 61px;
     background-color: white;
     opacity: 0.4;
     position: absolute;
-    bottom: 15px;
+    bottom: 12px;
 }
 
 .small_banner1 p {
     color: black;
     font-weight: 600;
-    margin-left: 22px;
-    margin-top: 10px;
+    position: absolute;
+    top: 13px;
+    left: 12px;
 }
 
 .small_banner1 hr {
     height: 7px;
-    background-color: green;
-    width: 43%;
-    margin-left: 15px;
+    background-color: #26C6AA;
+    width: 42%;
+    position: absolute;
+    top: 16px;
+    left: 12px;
 }
 
 .small_box2 {
     width: 29.33%;
-    height: 250px;
+    height: 224px;
     margin-right: 3%;
     float: left;
     background-image: url("../images/box2_img.jpg");
     background-size: cover;
-    border: 1px solid grey;
+    border: 1px solid #DADADA;
     position: relative;
 }
 
 .small_banner2 {
     width: 100%;
-    height: 65px;
+    height: 61px;
     background-color: white;
     opacity: 0.4;
     position: absolute;
-    bottom: 15px;
+    bottom: 12px;
 
 }
 
 .small_banner2 p {
     color: black;
     font-weight: 600;
-    margin-left: 22px;
-    margin-top: 10px;
+    letter-spacing: -0.5px;
+    position: absolute;
+    top: 13px;
+    left: 10px;
 }
 
 .small_banner2 hr {
     height: 7px;
-    background-color: green;
-    width: 43%;
-    margin-left: 15px;
+    background-color: #26C6AA;
+    width: 42%;
+    position: absolute;
+    top: 16px;
+    left: 10px;
 }
 
 .small_box3 {
     float: left;
     margin-right: 0;
-    height: 280px;
+    height: 253px;
     width: 30.33%;
-    border: 1px solid grey;
+    border: 1px solid #DADADA;
     position: relative;
 }
 
@@ -300,33 +319,33 @@ ul.submenu li {
     color: black;
     font-weight: 700;
     position: absolute;
-    margin-top: 23px;
-    margin-left: 22px;
+    top: 27px;
+    left: 15px;
+    letter-spacing: 0.5px;
 }
 
 .small_box3 hr {
     height: 7px;
-    background-color: green;
-    width: 43%;
+    background-color: #26C6AA;
+    width: 42%;
     margin-left: 23px;
     position: absolute;
-    top: 25px;
+    top: 31px;
+    left: -8px;
 }
 
 .small_box3 p.banner3_paragraph1 {
     color: black;
     position: absolute;
-    top: 60px;
-    left: 15px;
-    margin-left: 10px;
-    margin-right: 10px;
+    top: 68px;
+    left: 14px;
 }
 
 .small_box3 p.banner3_paragraph2 {
     color: black;
     position: absolute;
-    margin-top: 180px;
-    margin-left: 26px;
+    top: 171px;
+    left: 14px;
 }
 
 /*section price_list*/
@@ -341,18 +360,19 @@ ul.submenu li {
     font-size: 20px;
     font-weight: 500;
     color: black;
+    letter-spacing: 1.5px;
     position: absolute;
-    top: 26px;
-    left: 80px;
+    top: 44px;
+    left: 156px;
 }
 
 .header_price_list hr {
     height: 7px;
     background-color: #24BA9F;
-    width: 28%;
+    width: 24%;
     position: absolute;
-    top: 60px;
-    left: 80px;
+    top: 58px;
+    left: 154px;
 }
 
 #main_part_section {
