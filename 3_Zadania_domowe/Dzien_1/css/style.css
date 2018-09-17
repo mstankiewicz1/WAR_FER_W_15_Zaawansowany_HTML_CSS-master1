@@ -1,15 +1,96 @@
-.large_list ul {
-    height: 500px;
-    width: 300px;
-    background-color: #FF00A5;
-    font-weight: 400;
+@font-face {
+    font-family: 'Roboto1';
+    src: url('../fonts/Roboto-Bold.eot');
+    src: local('Roboto Bold'), local('Roboto-Bold'),
+    url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff'),
+    url('../fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
 }
 
-.large_list ul li {
-    line-height: 50px;
+@font-face {
+    font-family: 'Roboto2';
+    src: url('../fonts/Roboto-LightItalic.eot');
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'),
+    url('../fonts/Roboto-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-LightItalic.woff2') format('woff2'),
+    url('../fonts/Roboto-LightItalic.woff') format('woff'),
+    url('../fonts/Roboto-LightItalic.ttf') format('truetype');
     font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+    url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff'),
+    url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+ul {
+    height: 500px;
+    width: 300px;
+    list-style-type: none;
+}
+.ul > li {
+    height: 500px;
+    width: 300px;
+    list-style-type: none;
+}
+
+
+li {
+    height: 50px;
+    width: 300px;
+    line-height: 50px; /*przerwa miedzy tekstem*/
+    font-weight: 300; /*waga fontu*/
     text-align: center;
+}
+
+
+.inne {
+    background-color: #FF00A5;
+    font-family: Roboto1;
+
+
+
+
+}
+
+.inne > li {
     background-color: #36FF74;
+
+}
+
+.inne2 {
+    background-color: #E8370E;
+    font-family: Roboto2;
+
+
+}
+.inne2 > li {
+    background-color: #365FFF;
+
+
+}
+
+.inne3 {
+    background-color: #FFEC0C;
+    font-family: Roboto;
+
+}
+
+.inne3 > li {
+    background-color: #0DFFDE;
+
+
 }
 
 body {

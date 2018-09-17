@@ -1,0 +1,98 @@
+.layer-1 {
+    width: 800px;
+    height: 800px;
+    background-color: #FF1106;
+    position: relative;
+}
+.layer-2::before {
+    background-color: #FF5200;
+}
+
+.layer-2 {
+    width: 600px;
+    height: 600px;
+    background-color: #FF5200;
+    margin: -300px 0 0 -300px;
+}
+
+.layer-2::after{
+    background-color: #FF5200;
+
+}
+.layer-3::before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    float:right;
+    background-color: #FF8B05;
+    position: relative;
+    top: -50px;
+    left:50px
+}
+
+.layer-3 {
+    width: 400px;
+    height: 400px;
+    background-color: #FF8B05;
+    margin: -200px 0 0 -200px;
+}
+
+.layer-3::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    float:left;
+    background-color: #FF8B05;
+    position: absolute;
+    bottom: -50px;
+    left:-50px
+}
+
+.layer-4::before {
+    background-color: #FFCC0D;
+
+}
+
+.layer-4 {
+    width: 200px;
+    height: 200px;
+    background-color: #FFCC0D;
+    margin: -100px 0 0 -100px;
+}
+
+.layer-4::after{
+    background-color: #FFCC0D;
+
+}
+
+
+.layer-2, .layer-3 , .layer-4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.layer-2::after, .layer-4:after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: relative;
+    top: -50px;
+    left: -50px;
+}
+
+
+.layer-2::before, .layer-4::before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    float: right;
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+}

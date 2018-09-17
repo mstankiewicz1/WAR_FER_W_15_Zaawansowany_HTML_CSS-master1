@@ -13,11 +13,6 @@ header, section, footer {
     margin: 0 auto;
 }
 
-
-
-
-
-
 /*header*/
 header {
     width: 100%;
@@ -43,7 +38,7 @@ p.inscription_SitOnChair {
     color: #2FBDA3;
 }
 
-nav{
+nav {
     float: right;
     position: absolute;
     top: 6px;
@@ -115,6 +110,7 @@ ul.submenu li {
 }
 
 /*section banner*/
+
 #banner {
     background: linear-gradient(to bottom right, #fff, #cccdd4);
     height: 504px;
@@ -215,6 +211,7 @@ ul.submenu li {
 }
 
 /*section gallery*/
+
 #gallery {
     height: 341px;
     margin-bottom: 10px;
@@ -676,6 +673,7 @@ ul.submenu li {
 }
 
 /*item3*/
+
 .item3 {
     width:330px;
     height: 500px;
